@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = appbuttonprefs;
+		cell = PSLinkCell;
+		detail = "appbuttonprefsListController";
+		icon = "appbuttonprefs.png";
+		isController = 1;
+		label = AppButton;
+	};
+}

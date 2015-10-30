@@ -1,0 +1,13 @@
+"BLACK_BUTTON_FOOTER" = "Переключает вид неактивной AppButton между светлым и тёмным режимами.";
+"BLACK_BUTTON_LABEL" = "Тёмная кнопка";
+"BLACK_TRAY_FOOTER" = "Переключает вид панели мультизадачности между светлым и тёмным режимами.";
+"BLACK_TRAY_LABEL" = "Тёмная панель";
+"RESTING_ALPHA_FOOTER" = "Прозрачность неактивной AppButton.";
+"ACTIVE_ALPHA_FOOTER" = "Прозрачность активной AppButton.";
+"ENABLE_BORDER_FOOTER" = "Создает тонкую окантовку вокруг AppButton.";
+"ENABLE_BORDER_LABEL" = "Окантовка";
+"ENABLE_BLUR_FOOTER" = "Включает размытие кнопки и панели мультизадачности.";
+"ENABLE_BLUR_LABEL" = "Размытие";
+"HIGHLIGHT_APP_FOOTER" = "Подсвечивает выбранное приложение и затемняет остальные.";
+"HIGHLIGHT_APP_LABEL" = "Подсвечивать выбор";
+"AESTHETICS_SECTION_LABEL" = "Внешний вид";

@@ -1,0 +1,6 @@
+"ACTIVATE_APPBUTTON_LISTENER_TITLE" = "Attiva AppButton";
+"ACTIVATE_APPBUTTON_LISTENER_DESCRIPTION" = "Rendi AppButton visibile";
+"EVENT_TAP_BUTTON_ONCE_TITLE" = "Tocco di AppButton";
+"EVENT_TAP_BUTTON_ONCE_DESCRIPTION" = "Singolo Tocco di AppButton";
+"EVENT_TAP_BUTTON_TWICE_TITLE" = "Doppio Tocco di AppButton";
+"EVENT_TAP_BUTTON_TWICE_DESCRIPTION" = "Doppio Toppo di AppButton";

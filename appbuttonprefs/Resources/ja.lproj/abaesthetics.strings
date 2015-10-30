@@ -1,0 +1,13 @@
+"BLACK_BUTTON_FOOTER" = "レスティングボタンを白か黒に切り替える。";
+"BLACK_BUTTON_LABEL" = "黒いボタン";
+"BLACK_TRAY_FOOTER" = "オープントレーを知ろか黒に切り替える。";
+"BLACK_TRAY_LABEL" = "黒いトレー";
+"RESTING_ALPHA_FOOTER" = "レスティング中AppButtonの透明度の設定。";
+"ACTIVE_ALPHA_FOOTER" = "発動中のAppButtonの透明度の設定。";
+"ENABLE_BORDER_FOOTER" = "AppButtonの周りの小さな枠を有効にする。";
+"ENABLE_BORDER_LABEL" = "枠を有効にする。";
+"ENABLE_BLUR_FOOTER" = "ボタンとトレーのブラーエフェクトを有効にする。";
+"ENABLE_BLUR_LABEL" = "ブラーエフェクト有効";
+"HIGHLIGHT_APP_FOOTER" = "周辺のアイコンをフェードし、トレーを閉じた時に開くアプリをハイライトする。";
+"HIGHLIGHT_APP_LABEL" = "選択したアプリをハイライト";
+"AESTHETICS_SECTION_LABEL" = "外観";

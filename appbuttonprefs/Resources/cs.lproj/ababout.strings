@@ -1,0 +1,10 @@
+"ABOUT_TEXT" = "AppButton Beta 1.0 od Stevena Rolfa
+	
+Pro nastavení úhlů pro lištu multitasklingu použijte nastavovací jezdce obklopující AppButton na předchozí stránce. Lišta oblíbených používá úhly opačné.
+
+Toto okno nastavení používá SAMultisectorControl, které je licencováno pod licencí MIT. Celý text licence je dostupný na stránce GitHub.";
+"TWEET_ME_LABEL" = "Twitter @chewmieser";
+"EMAIL_ME_LABEL" = "Napište mi email";
+"RESET_FOOTER" = "Resetuje veškerá nastavení a přemístí AppButton zpět na jeho původní místo.";
+"RESET_LABEL" = "Resetovat tlačítko";
+"ABOUT_SECTION_LABEL" = "Informace";

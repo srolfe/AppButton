@@ -1,0 +1,10 @@
+"ABOUT_TEXT" = "AppButton Beta 1.0 by Steven Rolfe
+	
+Multitasking çekmecesinin açýlma açýlarýný ayarlamak için önceki seçenekler sayfasýndaki AppButton'u çevreleyen tutacaklarý kullanýn. Favoriler çekmecesi zýt açýlarda açýlýr.
+
+Bu seçenekler penceresi MIT lisanslý SAMultisectorControl'u kullanýr. Lisansýn tamamý GitHub sayfasýnda mevcuttur.";
+"TWEET_ME_LABEL" = "Twitter @chewmieser";
+"EMAIL_ME_LABEL" = "Bana Email at";
+"RESET_FOOTER" = "Tüm ayarlarý sýfýrlar ve butonu orjinal konumuna döndürür.";
+"RESET_LABEL" = "Butonu sýfýrla";
+"ABOUT_SECTION_LABEL" = "Hakkýnda";

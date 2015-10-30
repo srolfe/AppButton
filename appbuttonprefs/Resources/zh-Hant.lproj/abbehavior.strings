@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPBUTTON_ACTIVATOR_ACTIVATION_FOOTER</key>
+	<string>指定 AppButton 啟動事件。 當沒有被分配啟動事件， AppButton 會常常可見。 當 切換模式 關閉時，啟動來顯示AppButton。</string>
+	<key>APPBUTTON_ACTIVATOR_ACTIVATION_METHODS_HEADER</key>
+	<string>AppButton 啟動</string>
+	<key>APPBUTTON_ACTIVATOR_ACTIVATION_METHODS_LABEL</key>
+	<string>啟動方法</string>
+	<key>APPBUTTON_ACTIVATOR_ACTIVATION_TOGGLE_MODE_LABEL</key>
+	<string>切換模式</string>
+	<key>BEHAVIOR_SECTION_LABEL</key>
+	<string>行為</string>
+	<key>DOUBLE_TAP_ACTION_FOOTER</key>
+	<string>雙擊 AppButton 會執行的操作。</string>
+	<key>DOUBLE_TAP_ACTION_FOOTER_WITH_ACTIVATOR</key>
+	<string>雙擊 AppButton 會執行的操作。操作會覆蓋 AppButton 預設功能。</string>
+	<key>DOUBLE_TAP_ACTIVATOR_HEADER</key>
+	<string>AppButton 雙擊</string>
+	<key>KILL_APPS_FOOTER</key>
+	<string>保持按住托盤邊緣2秒再放開會關閉所有正在運行的應用。當執行這個手勢時，白名單應用不會被關閉。</string>
+	<key>KILL_APPS_LABEL</key>
+	<string>殺掉應用手勢</string>
+	<key>SAUSAGE_FINGERS_FOOTER</key>
+	<string>設定啟動圖標到你的手指前。</string>
+	<key>SAUSAGE_FINGERS_LABEL</key>
+	<string>肥手指</string>
+	<key>SCROLL_ENABLED_FOOTER</key>
+	<string>當屏幕無法顯示全部應用會滾動圖標。</string>
+	<key>SCROLL_ENABLED_LABEL</key>
+	<string>啟用滾動</string>
+	<key>SINGLE_TAP_ACTION_FOOTER</key>
+	<string>按 AppButton 會執行的操作。</string>
+	<key>SINGLE_TAP_ACTION_FOOTER_WITH_ACTIVATOR</key>
+	<string>按 AppButton 會執行的操作。 Activator 操作會覆蓋 AppButton 預設功能。</string>
+	<key>SINGLE_TAP_ACTIVATOR_HEADER</key>
+	<string>AppButton 單擊</string>
+	<key>SNAP_TO_EDGE_FOOTER</key>
+	<string>強迫 AppButton 到屏幕的邊緣。</string>
+	<key>SNAP_TO_EDGE_LABEL</key>
+	<string>對接到屏幕的邊緣</string>
+	<key>SWAP_CONTROLS_FOOTER</key>
+	<string>當啟用這個功能時侯，點擊並按住來開啟托盤。當關閉這個功能，托盤是由刷掃來開啟。</string>
+	<key>SWAP_CONTROLS_LABEL</key>
+	<string>對換控制</string>
+	<key>TAP_ACTION_ACTIVATOR_OTHER</key>
+	<string>其它</string>
+	<key>TAP_ACTION_DOUBLE_TAP_HOME</key>
+	<string>雙擊主頁按鈕</string>
+	<key>TAP_ACTION_IGNORE</key>
+	<string>忽略</string>
+	<key>TAP_ACTION_LAST_APP</key>
+	<string>最後程式</string>
+	<key>TAP_ACTION_TAP_HOME</key>
+	<string>點擊主頁按鈕</string>
+	<key>WHITELIST_SECTION_HEADER</key>
+	<string>白名單應用</string>
+</dict>
+</plist>

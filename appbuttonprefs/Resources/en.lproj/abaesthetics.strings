@@ -1,0 +1,13 @@
+"BLACK_BUTTON_FOOTER" = "Changes the resting button between white and black.";
+"BLACK_BUTTON_LABEL" = "Black Button";
+"BLACK_TRAY_FOOTER" = "Changes the open tray between white and black.";
+"BLACK_TRAY_LABEL" = "Black Tray";
+"RESTING_ALPHA_FOOTER" = "The transparency applied to a resting AppButton.";
+"ACTIVE_ALPHA_FOOTER" = "The transparency applied to an active AppButton.";
+"ENABLE_BORDER_FOOTER" = "Enables the small border around AppButton.";
+"ENABLE_BORDER_LABEL" = "Enable Border";
+"ENABLE_BLUR_FOOTER" = "Enables blurring on the button and tray.";
+"ENABLE_BLUR_LABEL" = "Enable Blur";
+"HIGHLIGHT_APP_FOOTER" = "Fades surrounding icons and highlights the app that will launch when the tray is closed.";
+"HIGHLIGHT_APP_LABEL" = "Highlight Chosen App";
+"AESTHETICS_SECTION_LABEL" = "Look and Feel";

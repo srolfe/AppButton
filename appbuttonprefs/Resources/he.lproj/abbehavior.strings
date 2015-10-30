@@ -1,0 +1,30 @@
+"APPBUTTON_ACTIVATOR_ACTIVATION_FOOTER" = "הגדר מחוות הפעלה לAppButton. כאשר אף אחת לא מוגדרת, AppButton תמיד זמין. כאשר מצב מתג כבוי, AppButton מציץ כאשר הוא מופעל.";
+"APPBUTTON_ACTIVATOR_ACTIVATION_METHODS_HEADER" = "הפעלת AppButton";
+"APPBUTTON_ACTIVATOR_ACTIVATION_METHODS_LABEL" = "מחוות הפעלה";
+"APPBUTTON_ACTIVATOR_ACTIVATION_TOGGLE_MODE_LABEL" = "מצב מתג";
+"BEHAVIOR_SECTION_LABEL" = "התנהגות";
+"DOUBLE_TAP_ACTION_FOOTER" = "פעולה לביצוע כאשר מקישים פעמיים על AppButton";
+"DOUBLE_TAP_ACTION_FOOTER_WITH_ACTIVATOR" = "פעולה לביצוע כאשר מקישים פעמיים על AppButton
+מחוות Activator עוקפות את ברירת המחדל של AppButton.";
+"DOUBLE_TAP_ACTIVATOR_HEADER" = "AppButton הקשה כפולה על";
+"KILL_APPS_FOOTER" = "כאשר מחזיקים את קצה המגש לשתי שניות ומשחררים, כל האפליקציות ברקע יסגרו, אפליקציות ברשימה הלבנה לא ייסגרו כאשר מחווה זו תבוצע.";
+"KILL_APPS_LABEL" = "מחווה לסגירת אפליקציות";
+"SAUSAGE_FINGERS_FOOTER" = "מגדיר את אפליקציית הפתיחה לאחת לפני האצבע שלך.";
+"SAUSAGE_FINGERS_LABEL" = "אצבעות עבות";
+"SCROLL_ENABLED_FOOTER" = "גולל בין האפליקציות כשהמסך לא יכול להציג את כולן.";
+"SCROLL_ENABLED_LABEL" = "גלילה מאפשרת";
+"SINGLE_TAP_ACTION_FOOTER" = "פעולה לביצוע כאשר מקישים על AppButton";
+"SINGLE_TAP_ACTION_FOOTER_WITH_ACTIVATOR" = "פעולה לביצוע כאשר מקישים על AppButton
+מחוות Activator עוקפות את ברירת המחדל של AppButton.";
+"SINGLE_TAP_ACTIVATOR_HEADER" = "AppButton הקשה על";
+"SNAP_TO_EDGE_FOOTER" = "מכריח את AppButton להיצמד לצדדי המכשיר";
+"SNAP_TO_EDGE_LABEL" = "תעגון לקצה המסך";
+"SWAP_CONTROLS_FOOTER" = "כאשר דולק, המגש נפתח לאחר הקשה והחזקה.
+כאשר כבוי, המגש נפתח על ידי החלקה עליו.";
+"SWAP_CONTROLS_LABEL" = "החלף שליטה";
+"TAP_ACTION_ACTIVATOR_OTHER" = "אחר";
+"TAP_ACTION_DOUBLE_TAP_HOME" = "הקשה כפולה על כפתור הבית";
+"TAP_ACTION_IGNORE" = "התעלם";
+"TAP_ACTION_LAST_APP" = "אפליקציה אחרונה";
+"TAP_ACTION_TAP_HOME" = "הקשה על כפתור הבית";
+"WHITELIST_SECTION_HEADER" = "אפליקציות רשימה לבנה";

@@ -1,0 +1,10 @@
+"ABOUT_TEXT" = "AppButton Beta 1.0 autorstwa Stevena Rolfe'a
+	
+Aby ustawić kąty aktywacji zasobnika użyj kropek dookoła guzika na poprzedniej stronie ustawień. Zasobnik ulubionych apek używa przeciwnych kątów.
+
+W programie użyto SAMultisectorControl dostępnego na licencji MIT. Pełny tekst licencji dostępny jest na GitHubie.";
+"TWEET_ME_LABEL" = "@chewmieser na Twitterze";
+"EMAIL_ME_LABEL" = "Wyślij mi e-maila";
+"RESET_FOOTER" = "Przywraca ustawienia domyślne i położenie przycisku.";
+"RESET_LABEL" = "Przycisk reset";
+"ABOUT_SECTION_LABEL" = "O AppButtonie";

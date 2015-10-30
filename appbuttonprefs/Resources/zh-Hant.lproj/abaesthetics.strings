@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTIVE_ALPHA_FOOTER</key>
+	<string>活躍的AppButton透明度。</string>
+	<key>AESTHETICS_SECTION_LABEL</key>
+	<string>外觀和感覺</string>
+	<key>BLACK_BUTTON_FOOTER</key>
+	<string>更改休息按鈕到黑色或白色。</string>
+	<key>BLACK_BUTTON_LABEL</key>
+	<string>黑色按鈕</string>
+	<key>BLACK_TRAY_FOOTER</key>
+	<string>更改開放式托盤到黑色或白色。</string>
+	<key>BLACK_TRAY_LABEL</key>
+	<string>黑色托盤</string>
+	<key>ENABLE_BLUR_FOOTER</key>
+	<string>啟用模糊在按鈕和託盤。</string>
+	<key>ENABLE_BLUR_LABEL</key>
+	<string>啟用模糊</string>
+	<key>ENABLE_BORDER_FOOTER</key>
+	<string>啟用AppButton周圍的邊境。</string>
+	<key>ENABLE_BORDER_LABEL</key>
+	<string>啟用邊境</string>
+	<key>HIGHLIGHT_APP_FOOTER</key>
+	<string>變淡周邊圖標並突出當關閉托盤的程序。</string>
+	<key>HIGHLIGHT_APP_LABEL</key>
+	<string>突出選擇了的程式</string>
+	<key>RESTING_ALPHA_FOOTER</key>
+	<string>休眠的AppButton透明度。</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+"ABOUT_TEXT" = "AppButton Beta 1.0 by Steven Rolfe
+	
+For at indstille multitasking-bakkens vinkler, anvendes de greb der er rundt om AppButton på den forrige side. Bakken med favoritter benytter de modsatte vinkler.
+
+Dette indstillingspanel er det MIT licenserede SAMultisectorControl. Den fulde licenstekst er tilgængelig på GitHub.";
+"TWEET_ME_LABEL" = "Twitter @chewmieser";
+"EMAIL_ME_LABEL" = "Send mig en e-mail";
+"RESET_FOOTER" = "Gendanner alle indstillinger og flytter knappen tilbage til den oprindelige plads.";
+"RESET_LABEL" = "Gendan";
+"ABOUT_SECTION_LABEL" = "Om";

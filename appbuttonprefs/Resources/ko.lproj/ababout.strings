@@ -1,0 +1,10 @@
+"ABOUT_TEXT" = "AppButton 1.0 by Steven Rolfe
+	
+멀티태스킹 트레이 활성화 각도를 설정하려면, 이전 설정 페이지에서 AppButton 관련 설정들을 이용하십시오. 즐겨찾기 트레이는 반대 각도로 사용합니다.
+
+이 환경 설정 창은 SAMultisectorControl로 허가된 MIT로 만듭니다. 전체 라이선스 텍스트는 GitHub에서 사용할 수 있습니다.";
+"TWEET_ME_LABEL" = "Twitter @chewmieser";
+"EMAIL_ME_LABEL" = "Email 주세요.";
+"RESET_FOOTER" = "모든 설정 초기화 및 AppButton 위치를 초기화합니다.";
+"RESET_LABEL" = "AppButton 초기화";
+"ABOUT_SECTION_LABEL" = "정보";

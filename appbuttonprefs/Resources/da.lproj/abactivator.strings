@@ -1,0 +1,6 @@
+"ACTIVATE_APPBUTTON_LISTENER_TITLE" = "Activer AppButton";
+"ACTIVATE_APPBUTTON_LISTENER_DESCRIPTION" = "Gør AppButton synlig";
+"EVENT_TAP_BUTTON_ONCE_TITLE" = "AppButton enkelt tryk";
+"EVENT_TAP_BUTTON_ONCE_DESCRIPTION" = "Enkelt tryk på AppButton";
+"EVENT_TAP_BUTTON_TWICE_TITLE" = "AppButton Dobbelttryk";
+"EVENT_TAP_BUTTON_TWICE_DESCRIPTION" = "Dobbelttryk på AppButton";

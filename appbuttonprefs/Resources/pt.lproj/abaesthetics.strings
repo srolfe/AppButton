@@ -1,0 +1,13 @@
+"BLACK_BUTTON_FOOTER" = "Muda a cor do botão inativo do AppButton entre branco e preto.";
+"BLACK_BUTTON_LABEL" = "Botão Preto";
+"BLACK_TRAY_FOOTER" = "Muda a cor da bandeja aberta entre branca e preta.";
+"BLACK_TRAY_LABEL" = "Bandeja Preta";
+"RESTING_ALPHA_FOOTER" = "A transparência aplicada ao botão do AppButton inativo.";
+"ACTIVE_ALPHA_FOOTER" = "A transparência aplicada ao botão do AppButton quando ativo.";
+"ENABLE_BORDER_FOOTER" = "Habilita a pequena borda ao redor do botão do AppButton.";
+"ENABLE_BORDER_LABEL" = "Habilitar Borda";
+"ENABLE_BLUR_FOOTER" = "Habilita o ofuscamento no botão e na bandeja.";
+"ENABLE_BLUR_LABEL" = "Habilitar ofuscamento";
+"HIGHLIGHT_APP_FOOTER" = "Enfraquece os itens ao redor e destaca o aplicativo a ser aberto quando a bandeja fechar.";
+"HIGHLIGHT_APP_LABEL" = "Destaca o aplicativo escolhido";
+"AESTHETICS_SECTION_LABEL" = "Visual e Aspecto";

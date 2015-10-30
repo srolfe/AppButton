@@ -1,0 +1,13 @@
+"BLACK_BUTTON_FOOTER" = "Cambia il colore del bottone immobile tra bianco e nero.";
+"BLACK_BUTTON_LABEL" = "Buttone Nero";
+"BLACK_TRAY_FOOTER" = "Cambia il colore del vassoio aperto tra bianco e nero.";
+"BLACK_TRAY_LABEL" = "Vassoio Nero";
+"RESTING_ALPHA_FOOTER" = "La trasparenza applicata all'AppButton quando immobile.";
+"ACTIVE_ALPHA_FOOTER" = "La trasparenza applicata all'AppButton quando attivo.";
+"ENABLE_BORDER_FOOTER" = "Abilita un piccolo contorno per AppButton.";
+"ENABLE_BORDER_LABEL" = "Abilita il Contorno";
+"ENABLE_BLUR_FOOTER" = "Abilita l'appannamento del bottone e del vassoio.";
+"ENABLE_BLUR_LABEL" = "Abilita l'appannamento";
+"HIGHLIGHT_APP_FOOTER" = "Sbiadisci le icone intorno e evidenzia l'applicazione che verrà lanciata quando il vassoio verrà chiude.";
+"HIGHLIGHT_APP_LABEL" = "Evidenzia l'Applicazione Selezionata";
+"AESTHETICS_SECTION_LABEL" = "Aspetto e Estetica";

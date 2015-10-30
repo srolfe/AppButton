@@ -1,0 +1,6 @@
+"ACTIVATE_APPBUTTON_LISTENER_DESCRIPTION" = "הפוך את AppButton לנראה";
+"ACTIVATE_APPBUTTON_LISTENER_TITLE" = "הפעל את AppButton";
+"EVENT_TAP_BUTTON_ONCE_DESCRIPTION" = "הקשה על AppButton";
+"EVENT_TAP_BUTTON_ONCE_TITLE" = "AppButton הקשה על";
+"EVENT_TAP_BUTTON_TWICE_DESCRIPTION" = "הקש פעמיים על AppButton";
+"EVENT_TAP_BUTTON_TWICE_TITLE" = "AppButton הקשה כפולה על";

@@ -1,0 +1,13 @@
+"BLACK_BUTTON_FOOTER" = "Duran butonu beyaz veya siyah olarak deðiþtirir.";
+"BLACK_BUTTON_LABEL" = "Siyah Buton";
+"BLACK_TRAY_FOOTER" = "Açýlmýþ olan çekmeceyi beyaz veya siyah olarak deðiþtirir.";
+"BLACK_TRAY_LABEL" = "Siyah Çekmece";
+"RESTING_ALPHA_FOOTER" = "Duran butona uygulanan þeffaflýk.";
+"ACTIVE_ALPHA_FOOTER" = "Aktif butona uygulanan þeffaflýk.";
+"ENABLE_BORDER_FOOTER" = "AppButton'un etrafýndaki küçük bir sýnýr çizgisini etkinleþtirir.";
+"ENABLE_BORDER_LABEL" = "Sýnýr Çizgisini Etkinleþtir";
+"ENABLE_BLUR_FOOTER" = "Buton çekmecesinde bulanýklýðý etkinþeþtirir.";
+"ENABLE_BLUR_LABEL" = "Bulanýklýðý Etkinleþtir";
+"HIGHLIGHT_APP_FOOTER" = "Çevreleyen ikonlarý silikleþtirir ve açýlcak olan uygulama ikonunu parlatýr.";
+"HIGHLIGHT_APP_LABEL" = "Seçilen Uygulamayý Parlat";
+"AESTHETICS_SECTION_LABEL" = "Görünüm ve Hissiyat";

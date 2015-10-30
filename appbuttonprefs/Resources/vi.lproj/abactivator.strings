@@ -1,0 +1,6 @@
+"ACTIVATE_APPBUTTON_LISTENER_TITLE" = "Kích hoạt AppButton";
+"ACTIVATE_APPBUTTON_LISTENER_DESCRIPTION" = "Thiết lập để AppButton hiển thị";
+"EVENT_TAP_BUTTON_ONCE_TITLE" = "AppButton chạm 1 lần";
+"EVENT_TAP_BUTTON_ONCE_DESCRIPTION" = "Chạm 1 lần lên AppButton";
+"EVENT_TAP_BUTTON_TWICE_TITLE" = "AppButton chạm 2 lần";
+"EVENT_TAP_BUTTON_TWICE_DESCRIPTION" = "Chạm 2 lần lên AppButton";

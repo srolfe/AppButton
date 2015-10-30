@@ -1,0 +1,6 @@
+"ACTIVATE_APPBUTTON_LISTENER_TITLE" = "Aktywuj AppButtona";
+"ACTIVATE_APPBUTTON_LISTENER_DESCRIPTION" = "Spraw, by AppButton był widoczny";
+"EVENT_TAP_BUTTON_ONCE_TITLE" = "Dotknięcie AppButtona";
+"EVENT_TAP_BUTTON_ONCE_DESCRIPTION" = "Pojedyncze tapnięcie w AppButtona";
+"EVENT_TAP_BUTTON_TWICE_TITLE" = "Podwójne dotknięcie AppButtona";
+"EVENT_TAP_BUTTON_TWICE_DESCRIPTION" = "Podwójne tapnięcie w AppButtona";

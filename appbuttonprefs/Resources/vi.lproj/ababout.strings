@@ -1,0 +1,10 @@
+"ABOUT_TEXT" = "AppButton Beta 1.0 được tạo bởi Steven Rolfe
+
+Để thiết lập các góc độ kích hoạt khay đa nhiệm, sử dụng các xử lý xung quanh các AppButton trong trang cài đặt trước đó. Khay yêu thích sử dụng các góc đối diện.
+
+Khung điều chỉnh này sử dụng MIT bản quyền của SAMultisectorControl. Bản quyền đầy đủ có sẵn trên GitHub";
+"TWEET_ME_LABEL" = "Twitter của tôi @chewmieser";
+"EMAIL_ME_LABEL" = "Email của tôi";
+"RESET_FOOTER" = "Đặt lại tất cả các cài đặt và di chuyển các nút đến vị trí ban đầu của nó";
+"RESET_LABEL" = "Cài đặt lại nút";
+"ABOUT_SECTION_LABEL" = "Về AppButton";

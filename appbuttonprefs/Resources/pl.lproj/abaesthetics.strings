@@ -1,0 +1,13 @@
+"BLACK_BUTTON_FOOTER" = "Zamienia kolor przycisku pomiędzy białym a czarnym.";
+"BLACK_BUTTON_LABEL" = "Czarny przycisk";
+"BLACK_TRAY_FOOTER" = "Zamienia kolor zasobnika pomiędzy białym a czarnym.";
+"BLACK_TRAY_LABEL" = "Czarny zasobnik";
+"RESTING_ALPHA_FOOTER" = "Przezroczystość przycisku gdy nie jest on używany.";
+"ACTIVE_ALPHA_FOOTER" = "Przezroczystość przycisku gdy jest on używany.";
+"ENABLE_BORDER_FOOTER" = "Włącza małą obwódkę dookoła przycisku.";
+"ENABLE_BORDER_LABEL" = "Włącz obwódkę";
+"ENABLE_BLUR_FOOTER" = "Włącza rozmycie przycisku i zasobnika.";
+"ENABLE_BLUR_LABEL" = "Włącz rozmycie";
+"HIGHLIGHT_APP_FOOTER" = "Podświetla apkę która uruchomi się po zamknięciu zasobnika oraz przyciemnia resztę.";
+"HIGHLIGHT_APP_LABEL" = "Podświetl wybraną apkę";
+"AESTHETICS_SECTION_LABEL" = "Wygląd i funkcjonalność";

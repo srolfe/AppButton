@@ -1,0 +1,13 @@
+"BLACK_BUTTON_FOOTER" = "버튼 색상을 화이트나 블랙으로 변경합니다.";
+"BLACK_BUTTON_LABEL" = "블랙 버튼";
+"BLACK_TRAY_FOOTER" = "트레이의 색상을 화이트나 블랙으로 변경합니다.";
+"BLACK_TRAY_LABEL" = "블랙 트레이";
+"RESTING_ALPHA_FOOTER" = "평상시의 AppButton의 투명도를 조절합니다.";
+"ACTIVE_ALPHA_FOOTER" = "활성화시의 AppButton의 투명도를 조절합니다.";
+"ENABLE_BORDER_FOOTER" = "AppButton의 테두리를 구분선으로 표시합니다.";
+"ENABLE_BORDER_LABEL" = "테두리 사용";
+"ENABLE_BLUR_FOOTER" = "버튼과 트레이에 블러효과를 사용합니다.";
+"ENABLE_BLUR_LABEL" = "블러효과 사용";
+"HIGHLIGHT_APP_FOOTER" = "선택한 App 주위 아이콘은 어두워지고 트레이가 닫히면서 강조된 아이콘으로 실행합니다.";
+"HIGHLIGHT_APP_LABEL" = "선택한 App 강조";
+"AESTHETICS_SECTION_LABEL" = "모양과 느낌";

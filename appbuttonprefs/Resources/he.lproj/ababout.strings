@@ -1,0 +1,11 @@
+"ABOUT_SECTION_LABEL" = "אודות";
+"ABOUT_TEXT" = "AppButton בטא 1.0, פותח על ידי Steven Rolfe
+
+
+כדי להגדיר את זוויות ההפעלה של מגש המולטיטסקינג, השתמש בידיות המקיפות את AppButton בדף ההגדרות הקודם. מגש המועדפים משתמשם בזוויות ההפוכות.
+
+דף ההגדרות הזה משתמש בMIT licensed SAMultisectorControl. רישיון מלא זמין בGitHub.";
+"EMAIL_ME_LABEL" = "שלח לי דוא״ל";
+"RESET_FOOTER" = "מאתחל את כל ההגדרות ומזיז את הכפתור למיקומו המקורי.";
+"RESET_LABEL" = "אתחל כפתור";
+"TWEET_ME_LABEL" = "Twitter @chewmieser";

@@ -1,0 +1,10 @@
+"ABOUT_TEXT" = "AppButton Beta 1.0 von Steven Rolfe
+	
+Um die Aktivierungswinkel der Multitasking-Ablage festzulegen, verwenden Sie in der vorherigen Einstellungsseite die Griffe um den AppButton herum. Die Ablage mit den ausgewählten Favoriten verwendet den entgegengesetzten Winkel.
+
+Dieses Einstellungsfenster nutzt das von MIT lizenzierte SAMultisectorControl. Der vollständigen Lizenztext ist auf GitHub verfügbar.";
+"TWEET_ME_LABEL" = "Twitter @chewmieser";
+"EMAIL_ME_LABEL" = "Schreib mir eine E-Mail";
+"RESET_FOOTER" = "Alle Einstellungen sowie den AppButton auf seine ursprüngliche Position zurücksetzen";
+"RESET_LABEL" = "Reset-Taste";
+"ABOUT_SECTION_LABEL" = "Über";

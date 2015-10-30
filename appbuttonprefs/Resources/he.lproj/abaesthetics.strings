@@ -1,0 +1,13 @@
+"ACTIVE_ALPHA_FOOTER" = "השקיפות המוחלת על AppButton פעיל.";
+"AESTHETICS_SECTION_LABEL" = "מראה והרגשה";
+"BLACK_BUTTON_FOOTER" = "משנה את הכפתור הנח בין לבן לשחור.";
+"BLACK_BUTTON_LABEL" = "כפתור שחור";
+"BLACK_TRAY_FOOTER" = "משנה את המגש הפתוח בין לבן לשחור.";
+"BLACK_TRAY_LABEL" = "מגש שחור";
+"ENABLE_BLUR_FOOTER" = "מאפשר טשטוש על הכפתור והמגש";
+"ENABLE_BLUR_LABEL" = "אפשר טשטוש";
+"ENABLE_BORDER_FOOTER" = "מאפשר את הגבול הקטן מסביב לAppButton.";
+"ENABLE_BORDER_LABEL" = "אפשר גבול";
+"HIGHLIGHT_APP_FOOTER" = "מדהה אפליקציות סובבות ומדגיש את האפליקציה שתיפתח כשהמגש ייסגר.";
+"HIGHLIGHT_APP_LABEL" = "הדגש אפליקציה נבחרת.";
+"RESTING_ALPHA_FOOTER" = " השקיפות המוחלת על AppButton נח.";

@@ -1,0 +1,13 @@
+"BLACK_BUTTON_FOOTER" = "Thay đổi nút nghĩ giữa trắng và đen";
+"BLACK_BUTTON_LABEL" = "Nút đen";
+"BLACK_TRAY_FOOTER" = "Thay đổi khay mở giữa trắng và đen";
+"BLACK_TRAY_LABEL" = "Khay đen";
+"RESTING_ALPHA_FOOTER" = "Độ trong suốt được áp dụng cho AppButton ở các khoãng nghĩ";
+"ACTIVE_ALPHA_FOOTER" = "Thiết lập độ trong suốt cho AppButton";
+"ENABLE_BORDER_FOOTER" = "Cho phép viền bao xung quanh nút AppButton";
+"ENABLE_BORDER_LABEL" = "Cho phép viền xung quanh";
+"ENABLE_BLUR_FOOTER" = "Cho phép làm mờ vào nút và khay";
+"ENABLE_BLUR_LABEL" = "Cho phép tính năng làm mờ";
+"HIGHLIGHT_APP_FOOTER" = "Mất dần các biểu tượng xung quanh và làm nổi bật các ứng dụng sẽ được khởi động khi khay được đóng lại";
+"HIGHLIGHT_APP_LABEL" = "Làm nổi bật ứng dụng đã chọn";
+"AESTHETICS_SECTION_LABEL" = "Nhìn và cảm nhận";

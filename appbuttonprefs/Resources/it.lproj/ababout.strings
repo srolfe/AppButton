@@ -1,0 +1,9 @@
+"ABOUT_TEXT" = "AppButton Beta 1.0 da Steven Rolfe
+
+Per impostare gli angoli di attivazione del vassoio del multitasking usa le maniglie intorno ad AppButton nella pagina delle impostazioni precedente. La visualizzazione dei preferiti usa gli angoli opposti.
+Questo pannello delle impostazioni fa utilizzo del SAMultisectorControl patentato dal MIT. Il testo completo della licenza è disponibile su GitHub.";
+"TWEET_ME_LABEL" = "Twitter @chewmieser";
+"EMAIL_ME_LABEL" = "Scrivimi una mail";
+"RESET_FOOTER" = "Resetta tutte le impostazioni e muovi il bottone alla sua posizione originale.";
+"RESET_LABEL" = "Resetta il buttone";
+"ABOUT_SECTION_LABEL" = "Info";

@@ -1,0 +1,13 @@
+"BLACK_BUTTON_FOOTER" = "Mění barvu tlačítka mezi černou a bílou.";
+"BLACK_BUTTON_LABEL" = "Černé tlačítko";
+"BLACK_TRAY_FOOTER" = "Mění barvu lišty mezi černou a bílou.";
+"BLACK_TRAY_LABEL" = "Černá lišta";
+"RESTING_ALPHA_FOOTER" = "Průhlednost AppButtonu, když není používán.";
+"ACTIVE_ALPHA_FOOTER" = "Průhlednost aktivního AppButtonu.";
+"ENABLE_BORDER_FOOTER" = "Zobrazí kolem AppButtonu tenký okraj.";
+"ENABLE_BORDER_LABEL" = "Zapnout okraje";
+"ENABLE_BLUR_FOOTER" = "Zapne rozmazání u lišty i tlačítka.";
+"ENABLE_BLUR_LABEL" = "Zapnout rozmazání";
+"HIGHLIGHT_APP_FOOTER" = "Zvýrazní aplikaci, která se po zavření lišty otevře.";
+"HIGHLIGHT_APP_LABEL" = "Zvýraznit vybranou aplikaci";
+"AESTHETICS_SECTION_LABEL" = "Vzhled";

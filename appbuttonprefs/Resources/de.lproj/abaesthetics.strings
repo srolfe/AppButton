@@ -1,0 +1,13 @@
+"BLACK_BUTTON_FOOTER" = "Wechselt den unberührten AppButton von Weiß auf Schwarz.";
+"BLACK_BUTTON_LABEL" = "Schwarz-Taste";
+"BLACK_TRAY_FOOTER" = "Wechselt die geöffnete Ablage von Weiß auf Schwarz.";
+"BLACK_TRAY_LABEL" = "Schwarze Ablage";
+"RESTING_ALPHA_FOOTER" = "Regelt die Transparenz auf den unberührten AppButton.";
+"ACTIVE_ALPHA_FOOTER" = "Regelt die Transparenz auf den aktiven AppButton.";
+"ENABLE_BORDER_FOOTER" = "Aktiviert einen schmalen Rand um den AppButton.";
+"ENABLE_BORDER_LABEL" = "Ränder aktivieren";
+"ENABLE_BLUR_FOOTER" = "Aktiviert einen Verschwommen-Effekt auf den AppButton sowie auf die Ablage.";
+"ENABLE_BLUR_LABEL" = "Verschwommen aktivieren";
+"HIGHLIGHT_APP_FOOTER" = "Verblasst umgebende Symbole und hebt die App hervor, welche gestartet wird sobald die Ablage geschlossen wird.";
+"HIGHLIGHT_APP_LABEL" = "Hebt die ausgewählte App hervor";
+"AESTHETICS_SECTION_LABEL" = "Aussehen";

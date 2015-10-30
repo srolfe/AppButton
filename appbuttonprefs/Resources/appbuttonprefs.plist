@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+			<string>ABPrefsHeaderCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>FAVORITE_SECTION_LABEL</string>
+			<key>icon</key>
+			<string>favorites.png</string>
+			<key>detail</key>
+			<string>ABFavoritedAppsController</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>AESTHETICS_SECTION_LABEL</string>
+			<key>icon</key>
+			<string>brush.png</string>
+			<key>detail</key>
+			<string>ABLookAndFeelController</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>BEHAVIOR_SECTION_LABEL</string>
+			<key>icon</key>
+			<string>behaviorIcon.png</string>
+			<key>detail</key>
+			<string>ABBehaviorController</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>AppButton © 2015 Steven Rolfe</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>ABOUT_SECTION_LABEL</string>
+			<key>icon</key>
+			<string>aboutIcon.png</string>
+			<key>detail</key>
+			<string>ABAboutController</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>AppButton</string>
+</dict>
+</plist>

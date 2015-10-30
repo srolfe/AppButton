@@ -1,0 +1,10 @@
+"ABOUT_TEXT" = "AppButton 1.0 by Steven Rolfe
+	
+To set the multitasking tray activation angles, use the handles surrounding the AppButton in the previous settings page. The favorites tray uses the opposite angles.
+
+This preference pane makes use of the MIT licensed SAMultisectorControl. Full license text is available on GitHub.";
+"TWEET_ME_LABEL" = "Twitter @chewmieser";
+"EMAIL_ME_LABEL" = "Email Me";
+"RESET_FOOTER" = "Resets all settings and moves the button to its original location.";
+"RESET_LABEL" = "Reset Button";
+"ABOUT_SECTION_LABEL" = "About";

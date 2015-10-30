@@ -1,0 +1,6 @@
+"ACTIVATE_APPBUTTON_LISTENER_TITLE" = "تفعيل الزر";
+"ACTIVATE_APPBUTTON_LISTENER_DESCRIPTION" = "جعل الزر مرئي.";
+"EVENT_TAP_BUTTON_ONCE_TITLE" = "نقرة واحدة على الزر";
+"EVENT_TAP_BUTTON_ONCE_DESCRIPTION" = "انقر مرة واحدة على الزر.";
+"EVENT_TAP_BUTTON_TWICE_TITLE" = "نقرتين على الزر";
+"EVENT_TAP_BUTTON_TWICE_DESCRIPTION" = "إنقر مرتين على الزر.";

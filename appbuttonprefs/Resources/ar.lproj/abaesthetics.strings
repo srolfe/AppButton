@@ -1,0 +1,13 @@
+"BLACK_BUTTON_FOOTER" = "تغيير لون الزر من الأبيض إلى الأسود.";
+"BLACK_BUTTON_LABEL" = "اللون الأسود للزر";
+"BLACK_TRAY_FOOTER" = "تغيير لون الشريط من الأبيض إلى الأسود.";
+"BLACK_TRAY_LABEL" = "اللون الأسود للشريط";
+"RESTING_ALPHA_FOOTER" = "شفافية الزر.";
+"ACTIVE_ALPHA_FOOTER" = "شفافية الشريط.";
+"ENABLE_BORDER_FOOTER" = "تفعيل الإطار حول الزر.";
+"ENABLE_BORDER_LABEL" = "تفعيل الإطار";
+"ENABLE_BLUR_FOOTER" = "تفعيل الوضوح للزر والشريط.";
+"ENABLE_BLUR_LABEL" = "تفعيل الوضوح";
+"HIGHLIGHT_APP_FOOTER" = "جعل البرنامج المختار غامق وبقية البرامج تكون باهتة.";
+"HIGHLIGHT_APP_LABEL" = "جعل البرنامج المختار غامق";
+"AESTHETICS_SECTION_LABEL" = "مظهر الزر";

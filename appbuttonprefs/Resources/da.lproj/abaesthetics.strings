@@ -1,0 +1,13 @@
+"BLACK_BUTTON_FOOTER" = "Ændrer hvilkeknappen i mellem sort og hvid.";
+"BLACK_BUTTON_LABEL" = "Sort knap";
+"BLACK_TRAY_FOOTER" = "Ændrer den åbne bakke i mellem sort og hvid.";
+"BLACK_TRAY_LABEL" = "Sort bakke";
+"RESTING_ALPHA_FOOTER" = "Gennemsigtighed på ventende AppButton.";
+"ACTIVE_ALPHA_FOOTER" = "Gennemsigtighed på aktiv AppButton.";
+"ENABLE_BORDER_FOOTER" = "Aktiverer en smal kant rundt om AppButton.";
+"ENABLE_BORDER_LABEL" = "Aktiver kant";
+"ENABLE_BLUR_FOOTER" = "Aktiverer blur på knappen og bakken.";
+"ENABLE_BLUR_LABEL" = "Aktiver blur";
+"HIGHLIGHT_APP_FOOTER" = "Fader omkringliggende ikoner og highlighter den app der åbnes når bakken lukker.";
+"HIGHLIGHT_APP_LABEL" = "Highlighter den valgte App";
+"AESTHETICS_SECTION_LABEL" = "Udseende";

@@ -1,0 +1,10 @@
+"ABOUT_TEXT" = "AppButton Beta 1.0 por Steven Rolfe
+	
+Para ajustar o ângulo de ativação da bandeja multitarefas, use as abas ao redor do AppButton na página de configurações anterior. A bandeja dos favoritos usa os ângulos opostos.
+
+Esse painel de preferências faz uso do SAMultisectorControl licenciado pelo MIT. A licença completa está disponível no GitHub.";
+"TWEET_ME_LABEL" = "Twitter @chewmieser";
+"EMAIL_ME_LABEL" = "Mande-me um Email";
+"RESET_FOOTER" = "Redefine todas as configurações e move o botão para sua posição original.";
+"RESET_LABEL" = "Botão de redefinir";
+"ABOUT_SECTION_LABEL" = "Sobre";

@@ -1,0 +1,6 @@
+"ACTIVATE_APPBUTTON_LISTENER_TITLE" = "Zapnout AppButton";
+"ACTIVATE_APPBUTTON_LISTENER_DESCRIPTION" = "Viditelnost AppButtonu";
+"EVENT_TAP_BUTTON_ONCE_TITLE" = "Ťuknutí na AppButton";
+"EVENT_TAP_BUTTON_ONCE_DESCRIPTION" = "Jedno ťuknutí na AppButton";
+"EVENT_TAP_BUTTON_TWICE_TITLE" = "Dvojité ťuknutí na AppButton";
+"EVENT_TAP_BUTTON_TWICE_DESCRIPTION" = "Dvojité ťuknutí na AppButton";

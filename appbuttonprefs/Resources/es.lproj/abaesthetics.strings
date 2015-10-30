@@ -1,0 +1,13 @@
+"BLACK_BUTTON_FOOTER" = "Cambia el botón en reposo entre blanco y negro.";
+"BLACK_BUTTON_LABEL" = "Botón Negro";
+"BLACK_TRAY_FOOTER" = "Cambia la bandeja abierta de blanca a negra.";
+"BLACK_TRAY_LABEL" = "Bandeja Negra";
+"RESTING_ALPHA_FOOTER" = "Transparencia de AppButton en reposo.";
+"ACTIVE_ALPHA_FOOTER" = "Transparencia de AppButton activo.";
+"ENABLE_BORDER_FOOTER" = "Muestra un pequeño borde alrededor de AppButton.";
+"ENABLE_BORDER_LABEL" = "Activar Borde";
+"ENABLE_BLUR_FOOTER" = "Muestra un fondo borroso en el botón y en la bandeja.";
+"ENABLE_BLUR_LABEL" = "Activar Fondo Borroso";
+"HIGHLIGHT_APP_FOOTER" = "Oscurece los iconos e ilumina la app que se lanzará al cerrarse la bandeja.";
+"HIGHLIGHT_APP_LABEL" = "Iluminar App Seleccionada";
+"AESTHETICS_SECTION_LABEL" = "Aspecto y Sensación";

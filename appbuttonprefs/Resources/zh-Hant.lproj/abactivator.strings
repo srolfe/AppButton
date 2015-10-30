@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTIVATE_APPBUTTON_LISTENER_DESCRIPTION</key>
+	<string>讓 AppButton 可見</string>
+	<key>ACTIVATE_APPBUTTON_LISTENER_TITLE</key>
+	<string>啟動 AppButton</string>
+	<key>EVENT_TAP_BUTTON_ONCE_DESCRIPTION</key>
+	<string>單擊在 AppButton</string>
+	<key>EVENT_TAP_BUTTON_ONCE_TITLE</key>
+	<string>AppButton 點擊</string>
+	<key>EVENT_TAP_BUTTON_TWICE_DESCRIPTION</key>
+	<string>雙擊在 AppButton</string>
+	<key>EVENT_TAP_BUTTON_TWICE_TITLE</key>
+	<string>AppButton 雙擊</string>
+</dict>
+</plist>

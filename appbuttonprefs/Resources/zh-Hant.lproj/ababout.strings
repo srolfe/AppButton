@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT_SECTION_LABEL</key>
+	<string>關於</string>
+	<key>ABOUT_TEXT</key>
+	<string>AppButton Beta 1.0 by Steven Rolfe
+	
+在前面的設定頁面，使用AppButton周圍的手柄來設定多重作業啟動托盤角度。收藏夾托盤要使用對面角度。
+
+偏好設定面板使用了MIT許可的SAMultisectorControl授權文本可在GitHub上找到。</string>
+	<key>EMAIL_ME_LABEL</key>
+	<string>Email我</string>
+	<key>RESET_FOOTER</key>
+	<string>重置所有的設定到其原始位置</string>
+	<key>RESET_LABEL</key>
+	<string>重置按鈕</string>
+	<key>TWEET_ME_LABEL</key>
+	<string>Twitter @chewmieser</string>
+</dict>
+</plist>
